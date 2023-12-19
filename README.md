@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Thox</h1>
 <h3>Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digix666&label=Profile%20views&color=0e75b6&style=flat" alt="digix666" /> </p>
 <details>
 
 
