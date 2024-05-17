@@ -46,6 +46,6 @@
 </div>
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digix666&theme=dark&border_radius=40&card_width=350" alt="digix666" /></p>  -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digix666&theme=dark&border_radius=40&card_width=350" alt="digix666" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digix666&theme=onedark" alt="digix666" /></a> </p> -->
