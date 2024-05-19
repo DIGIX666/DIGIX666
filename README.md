@@ -15,7 +15,7 @@
 
 - 💬 About Me : **A person who wants to excel and learn new things to contribute, to create solutions in the game that is life.**
 
-- ⚡ Fun fact **dolphins call each other by unique "names**
+- ⚡ Fun fact : **dolphins call each other by unique "names"**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
