@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Thox</h1>
-<h3>Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
+<h3 align="center">Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/th%C3%A9o-dubois-662407194">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
