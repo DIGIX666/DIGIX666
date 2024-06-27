@@ -27,8 +27,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: digix666
-          template: classic
+          user: DIGIX666
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
