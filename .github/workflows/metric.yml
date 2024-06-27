@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     permissions:
       contents: write
     steps:
@@ -22,12 +24,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          with:
-            token: ${{ secrets.METRICS_TOKEN }}
-
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: DIGIX666
+          user: digix666
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
