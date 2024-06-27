@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Thox</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Thox</h1>
 <h3 align="center">Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
 <!-- <div align="center">
     <a href="https://www.linkedin.com/in/th%C3%A9o-dubois-662407194">
@@ -6,10 +6,10 @@
     </a>
 </div> -->
 
-<!-- <details> -->
-
+<details>
 
 ![Metrics](/github-metrics.svg)
+
 <!-- <p align="left"> <a href="https://twitter.com/tho6666" target="blank"><img src="https://img.shields.io/twitter/follow/tho6666?logo=twitter&style=for-the-badge" alt="@Tho6666" /></a> </p> -->
 
 <!-- - 🔭 I’m currently working on **GNO**
