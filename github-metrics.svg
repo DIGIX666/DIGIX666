@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1461" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1778" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            61 Commits
+                            62 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    487 MB used
+                                    488 MB used
                                 </div>
                             </section>
                             <section>
@@ -321,11 +321,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.22719523060505" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="285.22719523060505" y="0" width="84.97633268436124" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="370.2035279149663" y="0" width="51.24085664316434" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.4443845581306" y="0" width="24.426063012623793" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="445.87044757075444" y="0" width="14.129552429245543" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.2558596346269" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="285.2558596346269" y="0" width="84.96239575672782" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="370.2182553913548" y="0" width="51.232452654802515" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.4507080461573" y="0" width="24.422056905725288" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="445.8727649518826" y="0" width="14.127235048117429" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2374,6 +2374,685 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 87 commits in
+                                        <span class="repo">DIGIX666/gno</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev/thox/uuid</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d2d34eb</div>
+                                        <div class="message">fix(examples): update /r/demo/bar20/gno.mod (#2398)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [ ] Added new tests, or not needed, or not feasible
+- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [ ] Updated the official documentation or not needed
+- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [ ] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+Update /r/demo/bar20/gno.mod because of failing pipeline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eef0039</div>
+                                        <div class="message">fix: (gnovm) star expr assign for #1919 (#2255)
+
+This is a complete solution, alternative to #1919, and (I think) closes
+#1326.
+It creates a new container for "baseless" (floating) values constructed
+via `new(xxx)` or `&amp;struct{}`, which currently do not have a base
+containing object for that value, and are currently represented as
+PointerValues with .Base set to nil.
+
+The containing object is like a Block but minimal -- it only contains
+one Value, and has no Source or Parent. The modifications to realm.go
+allow for proper ref-counting so that even when there are multiple
+references to the baseless value, and even when the value is primitive,
+gc and ref-counting works (since the containing HeapItemValue is
+ref-counted). PointerValue.Base should now never be nil.
+
+See also
+https://github.com/gnolang/gno/pull/1919#issuecomment-2144059991 for why
+the previous solution doesn't work.
+
+A better optimization than the one mentioned in the comment above, is to
+always store the HeapItemValue along with the Value, since the Value's
+refcount should always be 1. This is left for the future, after first
+checking that this invariant is true.
+
+---------
+
+Co-authored-by: deelawn &lt;dboltz03@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6825293</div>
+                                        <div class="message">feat: refactor govdao structure and examples (#2379)
+
+- remove `gov/integration/`
+- remove `gov/proposals/`
+- move the integration test in `gov/dao/*test.gno`
+- add `r/sys/validators.Render()`
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f60d4d8</div>
+                                        <div class="message">docs: add 404 link checker / linter (#2394)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+## Description
+
+This PR cherrypicks the 404 link checker / linter from #2125.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0bc611</div>
+                                        <div class="message">feat: add r/demo/bar20 example (#2388)
+
+```go
+// Package bar20 is similar to foo20 but exposes a safe-object that can be used
+// by `maketx run`, another contract importing foo20, and in the future when
+// we'll support `maketx call Token.XXX`.
+```
+
+This package currently has limited functionality, but it should become
+more useful in the future.
+
+I'm using it to demonstrate the rationale for having two implementations
+in the `grc20` package - one with a banker, and one with a safe object.
+
+Related with #2314
+
+---------
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#028a4ed</div>
+                                        <div class="message">chore(docs): fix example rpcclient.NewHTTPClient returning variables (#2352)
+
+In the [how to connect a Go app to
+Gno.land](https://docs.gno.land/how-to-guides/connect-from-go) tutorial
+I got an error when I tried to run this line:
+
+```go
+rpc := rpcclient.NewHTTPClient("&lt;gno_chain_endpoint&gt;")
+```
+
+It seems that NewHTTPClient returns 2 values
+```go
+func NewHTTPClient(rpcURL string) (*RPCClient, error);
+``` 
+and in the example we assign only one variable.
+
+I updated the examples with:
+```go
+rpc, err := rpcclient.NewHTTPClient("&lt;gno.land_remote_endpoint&gt;")
+if err != nil {
+    panic(err)
+}
+```
+
+There is also a step where `crypto.AddressFromBech32` is used but I
+didn't found when the `crypto` was imported so I also added it in the
+doc:
+
+```go
+import (
+    ...
+    crypto "github.com/gnolang/gno/tm2/pkg/crypto"
+)
+```
+
+---------
+
+Co-authored-by: Morgan &lt;git@howl.moe&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#813cb0f</div>
+                                        <div class="message">chore: update CODEOWNERS (#2387)
+
+Co-authored-by: Morgan &lt;morgan@morganbaz.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4664ed</div>
+                                        <div class="message">feat(transpiler): transpile gno standard libraries (#1695)
+
+Merge order:
+
+1. #1700 
+2. #1702
+3. #1695 (this one!) -- review earlier ones first, if they're still
+open!
+
+This PR modifies the Gno transpiler (fka precompiler) to use Gno's
+standard libraries rather than Go's when performing transpilation. This
+creates the necessity to transpile Gno standard libraries, and as such
+support their native bindings. And it removes the necessity for a
+package like `stdshim`, and a mechanism like `stdlibWhitelist`.
+
+- Fixes #668. Fixes #1865.
+- Resolves #892.
+- Part of #814. 
+- Makes #1475 / #1576 possible without using hacks like `stdshim`.
+
+cc/ @leohhhn @tbruyelle, as this relates to your work
+
+## Why?
+
+- This PR enables us to perform Go type-checking across the board, and
+not use Go's standard libraries in transpiled code. This enables us to
+_properly support our own standard libraries_, such as `std` but any
+others we might want or need.
+- It also paves the way further to go full circle, and have Gno code be
+transpiled to Go, and then have "compilable" gno code
+
+## Summary of changes
+
+- The transpiler has been thoroughly refactored.
+- The biggest change is described above: instead of maintaing the import
+paths like `"strconv"` and `"math"` the same (so using Gno's stdlibs in
+Gno, and Go's in Go), the import paths for standard libraries is now
+also updated to point to the Gno standard libraries.
+- Native functions are handled by removing their definitions when
+transpiling, and changing their call expressions where appropriate. This
+links the transpiled code directly to their native counterparts.
+  - This removes the necessity for `stdlibWhitelist`. 
+- As a consequence, `stdshim` is no longer needed and has been removed.
+- Test files are still not "strictly checked": they may reference
+stdlibs with no matching source, and will not be tested when running
+with `--gobuild`. This is because packages like `fmt` have no
+representation in Gno code; they only exist as injections in
+`tests/imports.go`. I'll fix this eventually :)
+- The CLI (`gno transpile`) has been changed to reflect the above
+changes.
+- Flag `--skip-fmt` has been removed (the result of transpile is always
+formatted, anyway), and `--gofmt-binary` too, obviously. `gno transpile`
+does not perform validation, but will gladly provide helpful validation
+with the `--gobuild` flag.
+- There is another PR that adds type checking in `gno lint`, without
+needing to run through the transpilation step first:
+https://github.com/gnolang/gno/pull/1730
+- It now works by default by looking at "packages" rather than
+individual files. This is necessary so that when performing `transpile`
+on the `examples` directory, we can skip those where the gno.mod marks
+the module as draft. These modules make use of packages like "fmt",
+which because they don't have an underlying gno/go source, cannot be
+transpiled.
+- Running with `-gobuild` now handles more errors correctly; ie., all
+errors not previously captured by the `errorRe` which only matches those
+pertaining to a specific file/line.
+  - `gnoFilesFromArgs` was unused and as such deleted
+- `gnomod`'s behaviour was slightly changed.
+- I am of the opinion that `gno mod download` should not precompile what
+it downloads; _especially_ to gather the dependencies it has. I've
+changed it so that it does a `OnlyImports` parse of the file it
+downloads to fetch additional dependencies
+
+Misc:
+
+- `Makefile` now contains a recipe to calculate the coverage for
+`gnovm/cmd/gno`, and also view it via the HTML interface. This is needed
+as it has a few extra steps (which @gfanton already previously added in
+the CI).
+- Realms r/demo/art/gnoface and r/x/manfred_outfmt have been marked as
+draft, as they depend on packages which are not actually present in the
+Gno standard libraries.
+  - The transpiler now ignores draft packages by default.
+- `ReadMemPackage` now also considers Go files. This is meant to have
+on-chain the code for standard libraries like `std` which have native
+bindings. We still exclude Go code if it's not in a standard library.
+- `//go:build` constraints have been removed from standard libraries, as
+go files can only have one and we already add our own when transpiling
+
+## Further improvements
+
+after this PR
+
+- Scope understanding in `transpiler` (so call expressions are not
+incorrectly rewritten)
+- Correctly transpile gno.mod
+
+---------
+
+Co-authored-by: Antonio Navarro Perez &lt;antnavper@gmail.com&gt;
+Co-authored-by: Miloš Živković &lt;milos.zivkovic@tendermint.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#feb3051</div>
+                                        <div class="message">fix(examples): correct the version number in upgrade demo (#2390)
+
+Small fix to correct the version number in upgrade demo.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b8a893</div>
+                                        <div class="message">fix: Add default ports for `net.Dial` if missing in RPC URL (#2360)
+
+## Description
+
+This PR fixes a bug with the `http.Client`, where the custom
+`DialContext` would fail if the specified RPC URL did not contain a port
+number (ex: `https://rpc.gno.land`).
+
+I've added the default catch values, and removed useless error returns.
+
+This additionally begs the question -- do we even want a custom dial
+context, given that we don't even use the features it provides?
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [ ] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: Manfred Touron &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6032b48</div>
+                                        <div class="message">feat: add support for displaying the P2P Address for node secrets info (#2361)
+
+## Description
+
+Closes #1922 
+
+This PR introduces a new section to the `Node P2P Info` secrets output,
+that displays the P2P connection address.
+The secrets fetch command remains unchanged, and this info can be
+displayed by calling `gnoland secrets get NodeKey`
+
+It displays the following values:
+- if the config is not initialized yet, the default p2p listen address
+is used
+- if the config is initialized, the p2p listen address value is used
+
+&lt;img width="842" alt="Screenshot 2024-06-19 at 10 59 48"
+src="https://github.com/gnolang/gno/assets/16712663/217a80b9-2c46-444b-8b80-62a80ecdea4d"&gt;
+
+These values will be easily fetch-able when we introduce json output
+support for these outputs in #2301
+
+cc @mazzy89 
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3801d34</div>
+                                        <div class="message">fix: custom boolean types in conditional statements (#2147)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+Resolves https://github.com/gnolang/gno/issues/1087
+
+Preprocess conditional expr with `checkOrConvertBoolType`
+
+Unit test for `if` and `for` condition and `integ` test for invalid
+assignment. The invalid assignment is a case that
+[fails](https://go.dev/play/p/P631q105QW3) to compile in Go, but
+succeeded in Gno before this change.
+
+Run tests:
+```
+go test -run ^TestRunApp$ github.com/gnolang/gno/gnovm/cmd/gno 
+go test -run ^TestFiles$ github.com/gnolang/gno/gnovm/tests
+```
+
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [X] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: Jae Kwon &lt;53785+jaekwon@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71a298b</div>
+                                        <div class="message">perf: for loop and if (#2140)
+
+solves [this](https://github.com/gnolang/gno/issues/2138)
+
+Benchmarks
+```
+Master
+BenchmarkIfStatement-10    	     238	   4967960 ns/op
+BenchmarkForLoop-10    	          649	   1771728 ns/op
+
+Current branch
+BenchmarkIfStatement-10    	     366	   3316189 ns/op
+BenchmarkForLoop-10    	         1143	    945930 ns/op
+```
+
+By avoiding the runtime type conversion, we can see that we almost
+doubled the performance of these statements.
+
+---------
+
+Co-authored-by: jaekwon &lt;jae@tendermint.com&gt;
+Co-authored-by: Jae Kwon &lt;53785+jaekwon@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ba53ac</div>
+                                        <div class="message">feat: gno type check (#1426)
+
+**Pinned Update:**
+
+The original https://github.com/gnolang/gno/pull/1426 is now divided
+into 4 parts, with the dependency relationship being:
+https://github.com/gnolang/gno/pull/1426 &lt;
+https://github.com/gnolang/gno/pull/1775,
+https://github.com/gnolang/gno/pull/1426 &lt;-
+https://github.com/gnolang/gno/pull/1890&lt;-
+https://github.com/gnolang/gno/pull/1891.
+
+Among these, the main part, https://github.com/gnolang/gno/pull/1426,
+has been supplemented and optimized for the missing parts in the type
+checks of the original implementation, specifically as follows:
+
+- A new layer for type check is added(type_check.go). during the
+preprocess stage, the compatibility of operators and operands in
+expressions is checked, such as 1 - "a". This part used to be
+implemented as a runtime error, but now it is checked in type_check.go;
+ 
+- Modifications have been made to checkOrConvertType to add conversion
+checks for constants, such as int(1) + int64(1), which previously would
+not trigger a compile-time error;
+
+- Refined and improved several aspects of the handling logic for
+BinaryExpr during the preprocessing stage.
+ 
+- The existing checkType has been renamed to assertAssignableTo.
+
+==========================update complete=======================
+
+### Problem Definition
+
+Please proceed to #1424.
+
+======update:
+fix #1462 , tests located in `gnovm/tests/files/type2`.
+this issue is fixed since they share the same contexts of type check and
+conversion.
+
+briefly for #1462, type of shift expression (or any composed expression
+involved shift expression) will be determined in the context they are
+used if they are untyped, also can be mutated by explicitly conversion
+with a `type call`.
+
+
+==========================================================================================
+
+
+### Overview of Solution
+#### checkOperandWithOp function:
+**Purpose**: Newly introduced to evaluate operand compatibility before
+deep type analysis.
+**Functionality**: Employs predefined rules to quickly identify
+incompatible patterns (e.g., "a" &lt;&lt; 1 is flagged as incompatible).
+**Advantage**: Prevents unnecessary processing by checkOrConvertType for
+clear mismatches.
+
+#### checkOrConvertType function:
+**Role**: Engages after checkOperandWithOp's clearance. It's the hub for
+core type checking and conversion.
+**Key Improvement**: Enhanced handling of const conversions by limiting
+it within a certain range.
+**Example**: In cases like int(1) + int(8), the issue of unregulated
+const conversion is addressed.
+**Constraints**: Mandatory const conversion is now limited to specific
+scenarios (e.g., explicit conversion, operand in array/slice index, RHS
+of a shift expression).
+
+### Specific Problems Solved
+
+1. **assignable and sameType check:**
+This code should output "something else". the root cause for this is
+Error(0) is assignable to errCmp since it satisfies the interface of
+error, and result in inequality since the have different concrete type
+in runtime.
+Thanks @jaekwon for pointing out my mistake and give an improved version
+of this.
+
+```go
+package main
+
+import (
+    "errors"
+    "strconv"
+)
+
+type Error int64
+
+func (e Error) Error() string {
+    return "error: " + strconv.Itoa(int(e))
+}
+
+var errCmp = errors.New("XXXX")
+
+func main() {
+    if Error(0) == errCmp {
+        println("what the firetruck?")
+    } else {
+        println("something else")
+    }
+}
+```
+
+
+2. **Early Incompatibility Detection:**
+Conducted during preprocessing, not runtime.
+**Example**:
+```go
+package main
+func main() {
+    println(1 / "a") // Detects incompatibility early.
+}
+```
+```go
+func main() {
+    println(int(1) == int8(1))  // this is checked before checkOrConvertType if LHS and RHS are both typed.
+}
+```
+
+~~3. **Implicit Conversion:**~~(this is split out)
+~~Focus: Ensuring accurate conversions, particularly unnamed to named
+types.~~
+~~Example:~~
+~~```go~~
+~~package main~~
+~~type word uint~~
+~~type nat []word~~
+~~func (n nat) add() bool {~~
+   ~~ return true~~
+~~}
+~~func Gen() nat {~~
+    ~~n := []word{0}~~
+    ~~return n~~
+~~}~~
+~~func main() {~~
+    ~~r := Gen()~~
+    ~~switch r.(type) {~~
+   ~~ case nat:~~
+        ~~println("nat")~~
+        ~~println(r.add())~~
+    ~~default:~~
+        ~~println("should not happen")~~
+   ~~ }~~
+~~}~~
+~~```~~
+~~4. **Type of Shift Expressions:**~~
+~~**Context**: Determines the type based on usage context and explicit
+conversions.~~
+~~**Implementation**: Additional checks in assignStmt, callExpr for
+potential untyped shift expressions (or else expressions with untyped
+shift expression embedded)~~~~appear, e.g. uint64(1 &lt;&lt; x). This will
+trigger a potentially recursive check&amp;convert until the shift expr got
+its final type.~~
+
+### Conclusion:
+This PR enhances the type check workflow and addresses previously
+overlooked aspects, resolving a variety of type-related issues.
+
+---------
+
+Co-authored-by: Morgan &lt;git@howl.moe&gt;
+Co-authored-by: jaekwon &lt;jae@tendermint.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea969b3</div>
+                                        <div class="message">Revert "fix: default untyped to uint when necessary (#2024)"
+
+This reverts commit e7e47d2589ceece37b0502d0df8d54ded582d501.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6284669</div>
+                                        <div class="message">ci: test gno.land when changing gnovm and tm2 (#2215)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa9c64a</div>
+                                        <div class="message">docs: add `TestSetRealm` reference docs (#2369)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+## Description
+
+This PR adds `TestSetRealm` docs, as well as related docs. It also fixes
+up a few minor details.
+
+Closes: #2273 
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: Morgan &lt;git@howl.moe&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fdbce0</div>
+                                        <div class="message">fix(contribs): revert back to `make &lt;action&gt;.&lt;program&gt;` syntax instead of the opposite (#2353)
+
+Please, can we take a bit of care when modifying the syntaxes of our
+makefile commands?
+
+They may not break code, but they break documentation and user flows. We
+can add a CI check as well; I see this for another PR as this is a
+hotfix. (Currently, running `make install` / `make install.gnodev` in
+the top-level directory doesn't work; because @moul inverted these in
+#1945). This is still not a substitute for a bit of good ol' attention
+in recognising when something is user-facing and thus should be changed
+with a bit more care and reason.
+
+Note, I'm NOT saying that we should not change things, as we are before
+any 1.0 so we should change anything that makes sense; but it is a good
+practice that when changing a flag, command, etc., to do a global search
+for the old syntax to see examples where old documentation or untested
+code is broken.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcbc61e</div>
+                                        <div class="message">chore(docs): bump minimum version to go 1.21 (#2328)
+
+@leohhhn this should be kept in sync with the go version in go.mod
+
+if we want to have something which we don't need to update, we can say
+simply that "we support the latest 2 Go [major
+versions](https://go.dev/doc/devel/release)"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5b999f</div>
+                                        <div class="message">feat: govdao mvp improvement (#2344)
+
+Continues #1945
+
+---------
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 13 commits in
                                         <span class="repo">DIGIX666/gno</span>
                                     </div>
@@ -2781,32 +3460,12 @@ d6ee9b526bd7d2494f744da2257f018689108f18</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kazai777/gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">z01-timelock</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c79bf43</div>
-                                        <div class="message">add comment and change roledata in timelock</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 16:17:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 17:20:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
