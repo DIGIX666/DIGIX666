@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1618" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1418" class="">
     <defs>
         <style/>
     </defs>
@@ -2289,6 +2289,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">DIGIX666/Convert-svg-to-jef</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#855ac20</div>
+                                        <div class="message">Frist test</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">DIGIX666/Convert-pdf-to-jef</span>
                                     </div>
                                 </div>
@@ -3010,372 +3030,12 @@ Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">DIGIX666/gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e282618</div>
-                                        <div class="message">fix(gnovm): source location always precise with line and column (#2362)
-
-The column number was not stored in the GnoVM location. A `Nonce` field
-was used to distinguished 2 block nodes on the same line. This was
-applied only to block nodes, not expressions or statements.
-
-As a result, the node location was the same for all expressions and
-statements located at the same source line. This change ensures the
-uniqueness of location for all nodes, in addition to providing an
-accurate position in source code.
-
-We replace `Nonce` by `Column`, computed by the Go tokenizer (the same
-as line numbers). Column is always included in all AST nodes, and the
-location string has a uniform format.
-
-With this change it is now possible for the debugger to step in infinite
-loops on one line like:
-
-`for { i++; println(i) }`
-
-This change is also necessary for a correct accounting for code
-coverage, and also may be gas accounting.
-
-Note: as `Nonce` is renamed to `Column` in protocol definitions (type
-and index unchanged),
-it may qualify as a BREAKING CHANGE, but I'm not completely sure of
-that.
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [*] Added new tests, or not needed, or not feasible
-- [*] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [*] Updated the official documentation or not needed
-- [*] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [*] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10a6f7e</div>
-                                        <div class="message">feat(docs-linter): add lint for local links (#2416)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-## Description
-
-This PR improves the docs linter by adding a `os.Stat` check for local
-files. It will notify the user if a link to a local file is broken by
-trying to find the file in question on the filesystem.
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [x] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;
-
----------
-
-Co-authored-by: deelawn &lt;dboltz03@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f547d7d</div>
-                                        <div class="message">feat(stdlibs): add math/rand (#2455)
-
-This PR ports over to Gno the
-[math/rand/v2](https://pkg.go.dev/math/rand/v2) Go package. It provides
-pseudo-random number generation.
-
-Notable omissions:
-
-- the [`N` generic function](https://pkg.go.dev/math/rand/v2@go1.22.4#N)
-- The [chacha8 random
-source](https://pkg.go.dev/math/rand/v2@go1.22.4#ChaCha8) (we can use
-PCG instead; and chacha8 can be implemented later)
-
-This PR requires a version bump to go 1.22 to have math/rand/v2 in the
-standard libraries; otherwise the Native tests won't work. We can
-rollback the changes to move it to 1.22 by removing the native math/rand
-implementation, and only using the stdlibs.
-
-BREAKING CHANGE: existing usages of math/rand used Go's math/rand;
-however, in this new standard library we use its v2, so results will be
-different.
-
-Closes #1272; See-also #1267 
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6235fd</div>
-                                        <div class="message">docs: add realm type (#2441)
-
-This adds the `Realm` type definition to the `std` package reference
-docs and links is appropriately.
-
----------
-
-Co-authored-by: Leon Hudak &lt;33522493+leohhhn@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3901e7e</div>
-                                        <div class="message">fix(tm2/std)!: use snake_case JSON fields for MemFile and MemPackage (#2019)
-
-This PR changes the MemFile and MemPackage to use `snake_case` fields
-for their JSON key names. This matches what all other objects in
-transactions do. A new test ensures that no transaction objects within
-the VM keeper have uppercase runes within their exported json fields.
-
-**BREAKING CHANGE:** old `m_addpkg` and `m_run` transactions will stop
-working. Clients will need to update accordingly, and this change needs
-to be synced like #1939.
-
-cc/ @zivkovicmilos @gnolang/berty @gnolang/onbloc
-
----------
-
-Co-authored-by: Miloš Živković &lt;milos.zivkovic@tendermint.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dc2712</div>
-                                        <div class="message">fix(tm2): rpc status validator power (#2447)
-
-Error discovered working on https://github.com/gnolang/gno/issues/2430
-
-On `/status` all node are showed with `voting_power=1`
-
-
-![image](https://github.com/gnolang/gno/assets/8089712/09b3bd4c-3060-4681-a7a1-82c425734d8e)
-
-This fixes it :)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#764eb65</div>
-                                        <div class="message">feat(gnoweb): Docs link to `gnokey list` with specific anchor (#2428)
-
-In the realm help UI of `gnoweb`, a link to the documentation of `gnokey
-list` is provided, but it's only redirecting to the page and not the
-specific `list` explanation.
-
-Fixed it by adding the corresponding anchor to the link.
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [ ] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [ ] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22c4d17</div>
-                                        <div class="message">fix: update validator docs styling, links (#2439)
-
-## Description
-
-This PR updates the broken styling, links in #2285.
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f74e5f0</div>
-                                        <div class="message">docs: new validator docs (+ updated docs for gnoland cli) (#2285)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-This PR adds the `validator` docs and updates old `gnoland` cli docs.
-Closes #1820 
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;
-
----------
-
-Co-authored-by: adr-sk &lt;andrew@onbloc.xyz&gt;
-Co-authored-by: Milos Zivkovic &lt;milos.zivkovic@tendermint.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f16ad3</div>
-                                        <div class="message">feat(telemetry): set otel service instance key id (#2435)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49fab4a</div>
-                                        <div class="message">fix(docs): broken links (#2431)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-## Description
-
-This PR fixes a few broken links in the docs, cherry-picked from #2416.
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [x] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28c3b1a</div>
-                                        <div class="message">feat: overhaul `gnoland secrets` and `gnoland config` to output JSON (#2393)
-
-## Description
-
-This PR overhauls the `gnoland secrets get` and `gnoland config get`
-commands to:
-- always output JSON by default
-- support key paths for specific fields
-- have `-raw` support for single value JSON (escapes `"`)
-
-Thank you @moul for the suggestion on this 🙏 
-
-
-![sample](https://github.com/gnolang/gno/assets/16712663/30c87b02-1c77-4134-a3b0-88b95687e292)
-
-cc @albttx @sw360cab @r3v4s @mazzy89 
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#072aef3</div>
-                                        <div class="message">feat: migrate the `libtm` repo to `tm2/pkg/libtm` (#2424)
-
-## Description
-
-After thorough discussions with @moul, this PR migrates the repo
-contents of [libtm](https://github.com/gnolang/libtm) (currently
-private) to the gno monorepo, under `tm2/pkg/libtm`, while preserving
-the original git history.
-
-We envision this library being used outside the `gno` repo, and have
-thus migrated its original `go.mod`.
-Please reference the `README.md` for additional details
-
-Related:
-- #2337 
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;
-
----------
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: Petar Dambovaliev &lt;petar.atanasov.1987@gmail.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 22:20:30 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 23:19:59 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
