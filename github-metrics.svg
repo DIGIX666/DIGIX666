@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1245" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1578" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2379,6 +2379,452 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">DIGIX666/gno</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev/thox/flagRace</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#757cc84</div>
+                                        <div class="message">chore: gnoclient: Require Caller in Msg. Remove syntax sugar Msgs (#2715)
+
+BREAKING CHANGE: The gnoclient API provides "syntax sugar" slices of
+messages like MsgCall. This PR removes them and instead uses the vm
+message definitions directly (without modification). This requires users
+of the gnoclient API to specify all needed fields, including `Caller`
+but it also simplifies the Sign logic. The concerns of message creation
+and message handling are now separated.
+
+* Remove "syntax sugar" `MsgCall`, `MsgSend`, `MsgRun` and
+`MsgAddPackage`.
+* Remove the related `validateMsgCall`, `validateMsgSend`,
+`validateMsgRun` and `validateMsgAddPackage`.
+* In `Call`, etc. change the `msgs` param to use `vm.MsgCall`, etc. Use
+the `ValidateBasic` method of these types.
+* Do not set the `Caller` from the `Signer`. Expect the `Caller` field
+to already be filled in.
+* In client_test.go and integration_test.go, specify the `Caller` where
+needed.
+* In client_test.go error tests, change `expectedError` to a string and
+use `assert.ErrorContains`. (This allows mixing errors that are defined
+by a type with errors defined as singleton objects.)
+* Update contribs/gnodev/pkg/dev/node_state_test.go to use `vm.MsgCall`.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+&lt;/details&gt;
+
+---------
+
+Signed-off-by: Jeff Thompson &lt;jeff@thefirst.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1c2b3f</div>
+                                        <div class="message">chore: In doc setting-up-a-new-chain, resetting the chain also, delete genesis.json (#2513)
+
+In the docs for setting up a new chain, section "Resetting the chain",
+it's also necessary to delete `genesis.json`. This is the same as [`make
+fclean`](https://github.com/gnolang/gno/blob/ee69fbd6baaa318d1504789df59ec961e1f5075b/gno.land/Makefile#L52).
+
+Signed-off-by: Jeff Thompson &lt;jeff@thefirst.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8e717a</div>
+                                        <div class="message">feat: p/subscription (#2116)
+
+I've created this `subscription` package based on this
+[PR](https://github.com/gnolang/gno/pull/1025) from @moul, I've
+integrated two types of subscription, a recurring payment subscription
+and a lifetime subscription. Do you have any ideas for other types of
+subscription that would be relevant to this package?
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [ ] Added new tests, or not needed, or not feasible
+- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [ ] Updated the official documentation or not needed
+- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [ ] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: Manfred Touron &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aae5d49</div>
+                                        <div class="message">feat(examples): add disperse (v2) (#2613)
+
+This PR adds a gno version of the [disperse ethereum
+app](https://disperse.app/) to gno.land !
+Another attempt was made in https://github.com/gnolang/gno/pull/1414 but
+we have decided to pick up from @leohhhn 's work with @lennyvong and
+made this PR, tested using txtar tests to avoid the situation described
+in https://github.com/gnolang/gno/issues/2595
+There is also an older (but functional for the most part) version
+[deployed in
+test4](https://test4.gno.land/r/g1w62226g8hykfmtuasvz80rdf0jl6phgxsphh5v/testing/disperse2?help)
+with a linked [webapp](https://gno-disperse.netlify.app/)
+
+&lt;img width="649" alt="image"
+src="https://github.com/user-attachments/assets/ad26a1a9-0447-4333-858a-253441c457ba"&gt;
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [X] Added new tests, or not needed, or not feasible
+- [X] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [X] Updated the official documentation or not needed
+- [X] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [X] Added references to related issues and PRs
+- [X] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: leohhhn &lt;hudakleon@gmail.com&gt;
+Co-authored-by: Leon Hudak &lt;33522493+leohhhn@users.noreply.github.com&gt;
+Co-authored-by: lennyvongphouthone &lt;lenny.vongphouthone@epitech.eu&gt;
+Co-authored-by: Guilhem Fanton &lt;8671905+gfanton@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04d5239</div>
+                                        <div class="message">chore: add a ugnot constant (#2656)
+
+Was starting to work on GNOT token locking and noticed we had no `ugnot`
+constant in our codebase. This PR adds a ugnot constant and replaces
+ugnot literals in most places.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6f797b</div>
+                                        <div class="message">chore(gnokey): update long help (#2712)
+
+## Description
+
+This PR updates the `gnokey` long help text.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6214fe9</div>
+                                        <div class="message">fix(gnovm): handle non call expression valuedecl values (#2647)
+
+Closes #2636.
+
+With a value declaration like `var a, b = ...`, we currently only
+support a call expression on the RHS. This PR supports type assertion
+and index expressions as well.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bd07c9</div>
+                                        <div class="message">fix(gnovm): correct comparison between different types (#1890)
+
+Fixes https://github.com/gnolang/gno/issues/1376, fixes
+https://github.com/gnolang/gno/issues/2386.
+
+---------
+
+Co-authored-by: deelawn &lt;dboltz03@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e0e52c</div>
+                                        <div class="message">fix(gnovm): prevent cyclic references in type declarations (#2081)
+
+Address #2008.
+
+
+In this pull request, we're implementing a special handling for type
+declarations to check cynic dependency. Due to their unique nature, we
+must meticulously search through their fields to identify potential
+cyclic reference.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [*] Added new tests, or not needed, or not feasible
+- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [ ] Updated the official documentation or not needed
+- [*] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [ ] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: deelawn &lt;dboltz03@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f7f589</div>
+                                        <div class="message">feat: render .md files from packages (#2540)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+This PR aims to solves #2494 in order to parse `markdown` files from
+packages templates. It currently uses the file extension (from
+`window.location`) to detect if the content is a `md` file in a package
+template.
+
+_Although keeping the extension in the url is not a good practice for
+SEO &amp; UX (because we are using pretty URLs for some other contents and
+are not consistent throughout gnoweb), This should do the work for now
+as short term solution since we are gonna parse `.md` from `go` soon
+with the new gnoweb design/codebase refactor (cc @gfanton)._
+
+It also improves the package file template by removing global JS and
+pushing the `source` content into the main rendering flow from
+`renderer.js`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f1c92</div>
+                                        <div class="message">fix: small typo in gnodev documentation (#2680)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [ ] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+Co-authored-by: Guilhem Fanton &lt;8671905+gfanton@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d3ec2f</div>
+                                        <div class="message">chore: update `gnolang/faucet` version to `v0.3.2` (#2701)
+
+## Description
+
+This PR bumps the `gnolang/faucet` version to `v0.3.2`, which fixes a
+bug where the middlewares would block a standard endpoints like
+`/health`.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#763bdd1</div>
+                                        <div class="message">chore(examples): update home page, add add test for r/events (#2697)
+
+## Description
+
+This PR updates the test4 item on the home page, and fixes a small
+rendering bug in the r/events realm, and adds tests to it.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fd4901</div>
+                                        <div class="message">feat(examples): implement `r/events`, `p/authorizable` (#2372)
+
+&lt;!-- please provide a detailed description of the changes made in this
+pull request. --&gt;
+
+## Description
+
+This PR adds the r/gnoland/events realm. It handles events gno.land is
+attending dynamically. An admin and modetators can add new events,
+delete old ones, or make changes to existing ones.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;
+
+---------
+
+Co-authored-by: Manfred Touron &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c606efe</div>
+                                        <div class="message">chore(ci): revamping master branch goreleaser (#2694)
+
+Introducing templating for gorelease when running in master branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b768db</div>
+                                        <div class="message">chore: fixate `golangci-lint` CI version to `1.59` (#2693)
+
+## Description
+
+This PR fixates the `golangci-lint` CI version to `1.59`, since this is
+the version we utilize for `misc/devdeps` that powers the `make lint`
+directive.
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [ ] Provided any useful hints for running manual tests
+- [ ] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4553879</div>
+                                        <div class="message">chore(ci): Fix master branch goreleaser (#2686)
+
+Providing a tuned command to trigger goreleaser on merges in master
+branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff0c177</div>
+                                        <div class="message">ci: Full revision of Goreleaser tasks (#2672)
+
+This PR has different purposes:
+* adding Gnofaucet to Goreleaser task (closes #2557)
+* moving Goreleaser from v 1.26 to v 2.1
+* reducing the verbosity of tasks by merging the different release types
+(latest, nightly, master) into a single goreleaser file
+* adding a fallbacked env variable called `TAG_VERSION`, which label the
+various docker images
+  * adding the `nightly` subtask, which is ignored for latest releases
+* skipping publish for master release (NOTE: this part is the one TBC,
+because `master` release is using nightly too, but the variable
+`tag_name` unfortunately cannot be templated, let's see if it can make
+sense or if there is another workaround)
+
+&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
+
+- [x] Added new tests, or not needed, or not feasible
+- [x] Provided an example (e.g. screenshot) to aid review or the PR is
+self-explanatory
+- [x] Updated the official documentation or not needed
+- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
+was included in the description
+- [x] Added references to related issues and PRs
+- [x] Provided any useful hints for running manual tests
+- [x] Added new benchmarks to [generated
+graphs](https://gnoland.github.io/benchmarks), if any. More info
+[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd99fbe</div>
+                                        <div class="message">feat: add p/demo/entropy (#2487)
+
+- Revert partially "feat(stdlibs): add math/rand (#2455)
+(f547d7dcac11de7937664413497fed35eb1a03ff)
+- Update p/demo/rand and rename to p/demo/entropy
+
+---------
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;
+Co-authored-by: Marc Vertes &lt;mvertes@free.fr&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36c8b03</div>
+                                        <div class="message">feat(gnoland): Improve `gnoland config/secrets` command description (#2399)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">kazai777/gno</span>
                                     </div>
@@ -2449,28 +2895,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#2307 feat: p/demo/accesscontrol &amp; p/demo/timelock</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by kazai777 in <span class="repo">gnolang/gno</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2024, 12:20:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Aug 2024, 13:16:45 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
