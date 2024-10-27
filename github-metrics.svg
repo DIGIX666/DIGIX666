@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1812" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1619" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.operator{color:#106cbc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            70 issue comments
+                            71 issue comments
                         </div>
                     </section>
                     <section>
@@ -2406,6 +2406,41 @@
                                 <div class="details">
                                     <div>opened by DIGIX666 in <span class="repo">gnolang/hackerspace</span></div>
                                     <div class="comment">
+                                        For the renewal of my grant, here are the 3 objectives I want to propose for feedback and to see which is the most relevant for the gno.land ecosystem:
+O1: Create an educational platform called Gnopool with @mous1985 , @kazai777 and @MalekLahbib .
+KR1: Create a comprehensive set of exercises covering all essential topics of gno.land, from basic concepts to advanced use cases, ensuring a gradual and thorough understanding.
+KR2: Develop the interactive platform with a user-friendly interface, allowing both beginners and advanced users to explore and learn gno through a series of exercises.
+KR3: Develop a ranking system
+
+O2: Develop a dApp to facilitate connections between people looking for developers for a task or project, with @mous1985 and @kazai777 
+KR1: Implement the skill validation process using a DAO, allowing developers to submit and verify their skills. This includes the integration of skill validation mechanisms and ensuring that verified developers can validate others.
+KR2: Develop a bidding system for developers, enabling them to propose their rates and timelines for project tasks. This should include a feature that hides specific details (like proposed amounts) from other users to maintain transparency.
+KR3: Create and integrate the smart contract that will manage the automatic assignment of developers to projects and handle the release of funds upon task validation.
+KR4: Build the developer dashboard, which displays validated skills, ongoing tasks, profile stats, and a tailored list of projects matching the developer’s expertise.
+
+O3: Continue the implementation of the
+                                        <code>Gno</code>
+                                        plugin for IntelliJ.
+KR1: Complete the project structure
+KR2: Adjust Gno-specific actions
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#84 Digix666 Builder Journey</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DIGIX666 in <span class="repo">gnolang/hackerspace</span></div>
+                                    <div class="comment">
                                         Last week, I continued implementing the
                                         <code>gno</code>
                                         plugin for IntelliJ using the go-lang-idea-plugin repository as a reference. Currently, the setup is on the right track :)
@@ -3177,304 +3212,12 @@ graphs](https://gnoland.github.io/benchmarks), if any. More info
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">DIGIX666/gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f6bd2d3</div>
-                                        <div class="message">chore: add alexiscolin as gnoweb reviewer (#2967)
-
-As I'll be leading the collective efforts around gnoweb, it would be
-helpful if I could be automatically pinged for any PR review related to
-the `gnoweb` folder. This PR adds my GH handle as a codeowner for this
-directory.
-
-Thank you for your help!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b655cd2</div>
-                                        <div class="message">fix(cmd/aminoscan): set len=0 in a slice initialization (#2971)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [ ] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [ ] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-&lt;/details&gt;
-
-
-The intention here should be to initialize a slice with a capacity of
-`len(args)` rather than initializing the length of this slice.
-
-The online demo: https://go.dev/play/p/q1BcVCmvidW</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d86229</div>
-                                        <div class="message">fix(gnovm): remove migration code of old GNOHOME (#2978)
-
-closes #800 
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [ ] Added new tests, or not needed, or not feasible
-- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [ ] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e587167</div>
-                                        <div class="message">chore: Run stdlib tests in parallel to make gnovm tests run faster (#2864)
-
-Check https://github.com/gnolang/gno/issues/2826 for more context.
-
----------
-
-Signed-off-by: Antonio Navarro &lt;antnavper@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ef7cbf</div>
-                                        <div class="message">docs: add `gno {env,fmt}` to go-gno-compatibility (#2974)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-gno env and gno fmt missing in the docs.
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [ ] Added new tests, or not needed, or not feasible
-- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [ ] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05cd4f5</div>
-                                        <div class="message">feat(stdlibs): add package `strconv` (#1464)
-
-This PR adds the full `strconv` package, implemented as pure Gno code.
-It removes the native functions `Itoa` (and others), and adds support
-for new functions such as `FormatFloat`.
-
-# Summary of changes
-
-- Standard libraries
-- Changes of `strconv` from Go stdlib:
-https://gist.github.com/thehowl/904b42b1ea53fef9b8a0486155c02b73 --
-tldr:
-    - removed everything related to complex types.
-    - avoid using reflection and dot imports.
-- instead of loading testfp.txt, embed the file directly into the
-source.
-    - define min/max explicitly as they're not built-in yet.
-    - remove go:build tags.
-    - (all of these mostly involve test files.)
-  - `unicode`
-    - Update tables, so that `strconv` tests succeed.
-  - `unicode/utf8`
-- Update to latest go version. Mostly, use `fallback` (as we now
-half-support it) and use `AppendString`.
-- GnoVM
-- PackageInjector is no longer necessary (hallelujah), see #814 for
-context. This justifies the changes in `store.go`, `store_test.go`,
-`nodes.go`, `tests/imports.go`.
-  - `gonative.go` and `machine.go` changes improve some error messages.
-- `preprocess.go` changes fix a bug which can be seen in the `for20.gno`
-test. If a `for` loop is labeled, then a bare `break` (ie. without a
-label to break to) would panic, as it wouldn't find any for loop without
-a label (in `findBranchLabel`). I added a regression test as well as a
-couple test showing the error message for when we misplace
-continue/break statements.
-- Tests.
-- `strconv.Itoa` now uses more gas than its existing native
-implementation. This is to be expected; we can consider moving it back
-to a native implementation if we deem it useful for performance, but I
-think it's good for us to work on having as much code implemented
-directly in gno before moving it back to Go for performance.
-
----------
-
-Co-authored-by: Manfred Touron &lt;94029+moul@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d986bf</div>
-                                        <div class="message">chore(ci): reducing folders spinning up benchmarks (#2966)
-
-Just reduce commits then could trigger benchmarks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#641d2fd</div>
-                                        <div class="message">feat(tm2/crypto/keys): In the gnokey CLI, add command to update the password (#2700)
-
-The `Keybase` API supports a method to [change the password of a
-key](https://github.com/gnolang/gno/blob/8a62a28f672d3311163bee75f5e8f10ba3d4d52b/tm2/pkg/crypto/keys/keybase.go#L450).
-It is currently called `Update` which is confusing. This PR renames the
-API function to `Rotate` and adds the "rotate" command to the gnokey
-CLI.
-
-BREAKING CHANGE: The Keybase API function `Update` is renamed to
-`Rotate`. (Note: I haven't seen code using this function, so it should
-be minimal impact.)
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-&lt;/details&gt;
-
----------
-
-Signed-off-by: Jeff Thompson &lt;jeff@thefirst.org&gt;
-Co-authored-by: Morgan &lt;morgan@morganbaz.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5444859</div>
-                                        <div class="message">chore: Remove checkbox with the reminder of adding more Benchmarks. (#2927)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a73cb22</div>
-                                        <div class="message">chore: fix issues reported by `go vet` (#2952)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-Passing `go vet` is the minimum level of code quality for a go project.
-This is addressed here for the full mono-repo. Mainly trivial changes,
-except for a few `copy lock` issues which could be more meaningful (kept
-for a separate pull request).
-
-Addresses #2954 (but not sufficient to close it yet).
-
-Hint for reviewers: it's easier to review each commit individually.
- 
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#679301a</div>
-                                        <div class="message">fix(r/leon/config): fix config bug (#2934)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-## Description
-
-Fixes a bug in `r/leon/config`.
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [x] Added new tests, or not needed, or not feasible
-- [x] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [x] Updated the official documentation or not needed
-- [x] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [x] Added references to related issues and PRs
-- [x] Provided any useful hints for running manual tests
-- [x] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d741140</div>
-                                        <div class="message">fix(p/demo/uassert): amend ineffective assignment (#2936)
-
-&lt;!-- please provide a detailed description of the changes made in this
-pull request. --&gt;
-
-&lt;details&gt;&lt;summary&gt;Contributors' checklist...&lt;/summary&gt;
-
-- [ ] Added new tests, or not needed, or not feasible
-- [ ] Provided an example (e.g. screenshot) to aid review or the PR is
-self-explanatory
-- [ ] Updated the official documentation or not needed
-- [ ] No breaking changes were made, or a `BREAKING CHANGE: xxx` message
-was included in the description
-- [ ] Added references to related issues and PRs
-- [ ] Provided any useful hints for running manual tests
-- [ ] Added new benchmarks to [generated
-graphs](https://gnoland.github.io/benchmarks), if any. More info
-[here](https://github.com/gnolang/gno/blob/master/.benchmarks/README.md).
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c04ff0</div>
-                                        <div class="message">chore: farewell Dylan 👋 (#2951)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d63918f</div>
-                                        <div class="message">fix(gnovm): correct type for shift expression (#1775)
-
-[shift operator where first operand is an untyped bigint always results
-in a bigint](https://github.com/gnolang/gno/issues/1462) is not resolved
-by #1426, it's fixed by this one.
-
-=================================================================
-1. This is a fix to gnolang/gno/issues/1462;
-3. **NOTE**: This PR should be reviewed following the potential merger
-of #1426, from which it is both decoupled and dependent. #1426 serves as
-base branch of this one.
-4. **NOTE**: Currently, this PR displays all code including that from
-#1426, because it is being compared to the master branch instead of
-differing against #1426 directly.
-
----------
-
-Co-authored-by: Morgan &lt;git@howl.moe&gt;
-Co-authored-by: Marc Vertes &lt;mvertes@free.fr&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2024, 23:20:27 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2024, 00:21:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
