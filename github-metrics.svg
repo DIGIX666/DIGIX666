@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1458" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1924" class="">
     <defs>
         <style/>
     </defs>
@@ -2380,6 +2380,158 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">DIGIX666/repo-test-go</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2458b9c</div>
+                                        <div class="message">commit ke 20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0354d88</div>
+                                        <div class="message">commit ke 19</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeb9cb9</div>
+                                        <div class="message">commit ke 18</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2406268</div>
+                                        <div class="message">commit ke 17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4bb76b</div>
+                                        <div class="message">commit ke 16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cc4ad1</div>
+                                        <div class="message">commit ke 15</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52f2253</div>
+                                        <div class="message">commit ke 14</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1576b35</div>
+                                        <div class="message">commit ke 13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccd82f0</div>
+                                        <div class="message">commit ke 12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52a5a23</div>
+                                        <div class="message">commit ke 11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dfa797</div>
+                                        <div class="message">commit ke 10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d558824</div>
+                                        <div class="message">commit ke 9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#295eee9</div>
+                                        <div class="message">commit ke 8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59ed40a</div>
+                                        <div class="message">commit ke 7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b4bd26</div>
+                                        <div class="message">commit ke 6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f399b96</div>
+                                        <div class="message">commit ke 5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#808bfdf</div>
+                                        <div class="message">commit ke 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75f5da7</div>
+                                        <div class="message">commit ke 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3d4894</div>
+                                        <div class="message">commit ke 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4bbbe6</div>
+                                        <div class="message">commit ke 1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">DIGIX666/repo-test-go</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#038e430</div>
+                                        <div class="message">commit ke 10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c20132</div>
+                                        <div class="message">commit ke 9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bab3715</div>
+                                        <div class="message">commit ke 8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c14b7c5</div>
+                                        <div class="message">commit ke 7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abc1e77</div>
+                                        <div class="message">commit ke 6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75a2b91</div>
+                                        <div class="message">commit ke 5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fbf7b9</div>
+                                        <div class="message">commit ke 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba0efa2</div>
+                                        <div class="message">commit ke 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a6dce2</div>
+                                        <div class="message">commit ke 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dd94dc</div>
+                                        <div class="message">commit ke 1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">gnoverse/intellij-gno</span>
                                     </div>
@@ -2628,52 +2780,12 @@ Addresses: #3546</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gnoverse/intellij-gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev/V.1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#21e99e6</div>
-                                        <div class="message">fix bug for multi import -&gt; next fix bug for chained selectors in function</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gnoverse/intellij-gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev/V.1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed7402d</div>
-                                        <div class="message">change file Gno.bnf for detect the comment</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2025, 23:19:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2025, 00:19:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
