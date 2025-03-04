@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1812" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2377,6 +2377,389 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">DIGIX666/repo-test-go</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f8b2b4</div>
+                                        <div class="message">commit ke 10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2d2409</div>
+                                        <div class="message">commit ke 9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e8398c</div>
+                                        <div class="message">commit ke 8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bb5011</div>
+                                        <div class="message">commit ke 7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a79641</div>
+                                        <div class="message">commit ke 6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6a6884</div>
+                                        <div class="message">commit ke 5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e36e23</div>
+                                        <div class="message">commit ke 4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c4ca88</div>
+                                        <div class="message">commit ke 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce66c72</div>
+                                        <div class="message">commit ke 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f13acd5</div>
+                                        <div class="message">commit ke 1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 34 commits in
+                                        <span class="repo">DIGIX666/gno</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d1fbf5</div>
+                                        <div class="message">fix: check interface convertable and print safe nil (#3843)
+
+Closes [3768](https://github.com/gnolang/gno/issues/3768), closes
+[3758](https://github.com/gnolang/gno/issues/3758)
+
+---------
+
+Co-authored-by: Morgan Bazalgette &lt;morgan@morganbaz.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17f44dc</div>
+                                        <div class="message">fix(gnovm): remove readonly flag (#3840)
+
+closes: #3800 . see comments below.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1db75e</div>
+                                        <div class="message">feat(gnoweb): add metadata to md content (#3797)
+
+Fixes #3333
+
+This PR introduces a way to customize HTML `head` metadata (`title`,
+`description`, and maybe soon, `canonical`) from realm markdown content.
+It adds a `front-matter` option that can be used at the very top of any
+realm markdown file. This front-matter is then read by our Markdown
+parser, Goldmark, to populate the `Title` and `Description` fields in
+gnoweb.
+
+The PR provides default content where these fields were previously blank
+and maintains a fallback setup using h.Static.Domain + " - " +
+gnourl.Path for the `Title`.
+
+Additionally, regardless of the provided Title, it will always be
+followed by ` - gnourl.Path` (` - gno.land` in our case).
+
+For now, only `Title` and `Description` are supported. Any other
+variables in the front-matter are ignored.
+
+Usage example:
+
+```
+---
+Title: Mon Titre 
+Description: Ma description 
+---
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05d8890</div>
+                                        <div class="message">fix(gnovm): don't assert to bodyStmt when creating stacktraces (#3836)
+
+Stacktraces being generated when executing a known statement, like the
+initialization of an if statement, will have the panicking statement at
+the top of the Stmt stack, which may not be a bodyStmt. This PR fixes
+the incorrect assertion.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7ce169</div>
+                                        <div class="message">feat(r/docs): add `minisocial` example (#3834)
+
+## Description
+
+Adds Gno Threads application to the `r/docs` folder. It adds a mini
+version (v1), and a full version (v2). This code will be used in the
+official docs.
+
+Needed for https://github.com/gnolang/docs-v2/pull/72</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fddfacc</div>
+                                        <div class="message">chore(gnoweb): bump hardcoded gas value (#3833)
+
+## Description
+
+Bumps the hardcoded gas value in gnoweb's help page as the current one
+is too low. Ideally we have gas estimates for this down the line.
+
+Also reorders flags to put func args after the func name.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c433aa0</div>
+                                        <div class="message">chore(docs): rm mentions of staging testnet (#3828)
+
+## Description
+
+Removes `staging` from the docs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bf3889</div>
+                                        <div class="message">feat(examples): add `p/jeronimoalbi/pager` package (#3806)
+
+Package implements a way to support paging in generic cases that don't
+use an AVL trees.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3288fe8</div>
+                                        <div class="message">fix: CSP to allow pixel gif from simple analytics (#3822)
+
+Related to #3619
+
+This PR updates the Content Security Policy (CSP) to allow Simple
+Analytics to function correctly. The img-src directive now includes
+https://sa.gno.services, enabling the tracking pixel to load without
+being blocked.
+
+The tracking pixel (a 1×1 GIF) is essential for Simple Analytics to
+collect pageview data without requiring JavaScript. When loaded, it
+sends necessary metadata (e.g., page URL, referrer, user-agent) via the
+request, allowing privacy-friendly analytics to work. Without this fix,
+Simple Analytics is unable to capture visits.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83c83f9</div>
+                                        <div class="message">feat(examples): add p/moul/authz (#3700)
+
+We should probably replace most of the current Ownable-based contracts
+with this option. This way, we can start with a central admin and later
+transition to a DAO.
+
+---------
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6803b77</div>
+                                        <div class="message">fix(gnovm): remove `preprocessing` variable (#3728)
+
+This PR removes the `preprocessing` global variable.
+
+This was only used in one function; now that we have `PreprocessingMode`
+in the machine, we can move this check out of the specific function and
+into the places where we need to check it</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c6e66</div>
+                                        <div class="message">fix(gnolang): prescriptively reject *ast.(IndexListExpr, GoStmt) as unrecognized for Gno (#3752)
+
+The *ast.IndexListExpr is used for generics but in assignment operations
+it is illegal to use. This change returns a proper error and matches
+Go's output.
+Also *ast.GoStmt is for spawning Go routines but those are forbidden
+in Gno, hence reject them prescriptively instead of just spewing
+out the raw ast type.
+
+Fixes #3731
+Updates #3751
+
+---------
+
+Co-authored-by: Morgan &lt;morgan@morganbaz.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41a43ba</div>
+                                        <div class="message">feat(examples): add p/moul/fifo (#3736)
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#300dcfd</div>
+                                        <div class="message">feat(sdk/vm): disallow calling internal realms (#3794)
+
+continuation of #3774, fixes #2190.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27fd12d</div>
+                                        <div class="message">docs: archive test4 (#3810)
+
+## Description
+
+Deprecates test4 in the docs.
+
+---------
+
+Co-authored-by: Jeff Thompson &lt;jeff@berty.tech&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4b5c9c</div>
+                                        <div class="message">fix(gnovm): allow private struct fields to be set (#3814)
+
+Go reflect doesn't allow to set unexported struct fields. We use
+`unsafe` to override this limitation.
+
+Fixes #1155, fixes #3802</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85b3c0b</div>
+                                        <div class="message">fix(gnovm): protect TypedValue stringer against deep recursivity (#3790)
+
+The protectedStringer is improved by limiting the successive number of
+nested calls when constructing the string representation of a deeply
+recursive value.
+
+Fixes #3471.
+
+---------
+
+Co-authored-by: ltzmaxwell &lt;ltz.maxwell@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c2c018</div>
+                                        <div class="message">fix(docs): originpkgaddr type (#3804)
+
+## Description
+
+Fixes wrong type in the ref docs. h/t @ajnavarro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf2e03f</div>
+                                        <div class="message">chore(deps): bump sigstore/cosign-installer from 3.8.0 to 3.8.1 in the actions group (#3796)
+
+Bumps the actions group with 1 update:
+[sigstore/cosign-installer](https://github.com/sigstore/cosign-installer).
+
+Updates `sigstore/cosign-installer` from 3.8.0 to 3.8.1
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sigstore/cosign-installer/releases"&gt;sigstore/cosign-installer's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.8.1&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;use cosign 2.4.3 and other updates by &lt;a
+href="https://github.com/cpanato"&gt;&lt;code&gt;@​cpanato&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/sigstore/cosign-installer/pull/182"&gt;sigstore/cosign-installer#182&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/sigstore/cosign-installer/compare/v3...v3.8.1"&gt;https://github.com/sigstore/cosign-installer/compare/v3...v3.8.1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sigstore/cosign-installer/commit/d7d6bc7722e3daa8354c50bcb52f4837da5e9b6a"&gt;&lt;code&gt;d7d6bc7&lt;/code&gt;&lt;/a&gt;
+use cosign 2.4.3 and other updates (&lt;a
+href="https://redirect.github.com/sigstore/cosign-installer/issues/182"&gt;#182&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sigstore/cosign-installer/compare/v3.8.0...v3.8.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=sigstore/cosign-installer&amp;package-manager=github_actions&amp;previous-version=3.8.0&amp;new-version=3.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8591793</div>
+                                        <div class="message">chore: Adding Stdlib to Gnodev Docker image (#3798)
+
+Adding Stdlib to Gnodev Docker image</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2447,61 +2830,12 @@ The DAP is more for the debugger ?
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#9 [Bug] : Wrong hyperlinked element</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by DIGIX666 in <span class="repo">gnoverse/intellij-gno</span></div>
-                                    <div class="comment">
-                                        <i>@DIGIX666 could you play with redhat-developer/lsp4ij#853 which should fix this issue and give us feedback.</i>
-                                        Yes, this is planned. I'm finishing implementing
-                                        <code>TestRunConfiguration</code>
-                                        for  unit testing files because I didn't see an API call in
-                                        <code>lsp4ij</code>
-                                        to enable it with my
-                                        <code>gnopls</code>
-                                        Once finished, all the main features will be present, so I'll go and play with
-                                        <code>PR#853</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#84 Digix666 Builder Journey</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by DIGIX666 in <span class="repo">gnolang/hackerspace</span></div>
-                                    <div class="comment">
-                                        Update 19/05/25 to 26/05/25
-                                        <b>In Progess</b>
-                                        Run Configuration -&gt; Gno test files (more details in the PR)
-https://github.com/gnoverse/intellij-gno/pull/13
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2025, 21:24:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 22:21:21 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
