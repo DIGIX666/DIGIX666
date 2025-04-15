@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1308" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.token.comment{color:#690}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2387,6 +2387,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a9f2b17</div>
+                                        <div class="message">deleted contributors</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DIGIX666/DIGIX666</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ca7237</div>
+                                        <div class="message">change letter</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DIGIX666/DIGIX666</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a3cab0c</div>
                                         <div class="message">change metric contributors</div>
                                     </div>
@@ -2499,330 +2539,12 @@ Co-authored-by: Leon Hudak &lt;33522493+leohhhn@users.noreply.github.com&gt;</di
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">DIGIX666/gno</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d450c90</div>
-                                        <div class="message">chore: Add misc/stress-test (#1583)
-
-This PR adds a Go utility in misc/stress-test/stress-test-many-posts
-which adds millions of posts to the (local) boards realm to test how
-memory and transaction time change with lots of realm storage. See the
-README for how to use it. See [this
-report](https://github.com/gnolang/hackerspace/issues/67) for example
-graphs created from using this utility.
-
----------
-
-Signed-off-by: Jeff Thompson &lt;jeff@thefirst.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbc216e</div>
-                                        <div class="message">fix(lint): ignore init function when we delete redefinition function (#4052)
-
-closes: #3930, closes #3961
-
----------
-
-Co-authored-by: Morgan Bazalgette &lt;morgan@morganbaz.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f34a80a</div>
-                                        <div class="message">feat: add txlink builder and send special arg (#3948)
-
-Related to #3919, this PR introduces a new streamlined way to build
-transaction links in gno, with built-in support for send values.
-
-## New Builder Pattern:
-
-```go
-// Create transaction links with a fluent interface
-txlink.NewLink("MyFunc").
-    AddArgs("k1", "v1", "k2", "v2").
-    SetSend("1000000ugnot").
-    URL()
-```
-
-## Added multiple ways to specify send values:
-- Via builder pattern: `SetSend("1000000ugnot")`
-- Via direct call: `Call("MyFunc", ".send", "1000000ugnot")`
-
-## The new builder pattern uses the same Realm logic as the previous one
-
-- Support for current realm (relative paths)
-- Support for local realm paths
-- Support for fully qualified paths
-
-## Priority Rules: 
-As a refinement, implemented clear priority rules for send values:
-- Last `AddSend` call wins
-
-## Test Coverage
-Added comprehensive test suite covering:
-- Basic builder functionality
-- Realm handling
-- URL encoding
-- Send values (all methods)
-- Empty/special values
-- Error cases
-
----------
-
-Co-authored-by: Leon Hudak &lt;33522493+leohhhn@users.noreply.github.com&gt;
-Co-authored-by: Morgan &lt;morgan@morganbaz.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ce1f02</div>
-                                        <div class="message">feat(examples): Brainfuck Interpreter (#4062)
-
-I did this for the fun of it.
-
-This is a minimalist implementation of
-[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) that supports
-processing inputs. This is a simple, but complete, implementation of the
-language, and it properly handles overflow.
-
-Features:
-- Dynamic "memory tape"
-- handles `pointer`, `cursor` and `i` as non-negative indexes
-- exits early if it identifies a unmatched square brackets, returning
-the current output bytes, as is
-- pointer cannot go below zero, so negative values for "wrapping" are
-not supported.
-- Decent test coverage, including an implementation of byte-based bubble
-sort!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3d4985</div>
-                                        <div class="message">fix(gnoweb): update copy button target (#4059)
-
-This PR aims to fix #4056 by switching `data-copy-content` from `fast
-mode` to `secure mode` (the new default cmd).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f01ba60</div>
-                                        <div class="message">fix(p/grc721): Verify `IsApprovedForAll` to check actual approval status (#4049)
-
-# Description
-
-Modified `IsApprovedForAll` to return the actual approved value instead
-of just checking existence</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2c1ec4</div>
-                                        <div class="message">feat: GovDAO implementation proposal. (#3389)
-
-GovDAO following Jae's specs:
-
-https://gist.github.com/jaekwon/918ad325c4c8f7fb5d6e022e33cb7eb3
-
-### Notes:
-
-Ignore all deleted files. I had to remove all previous govDAO
-implementations because it was too difficult (and worthless) to make it
-backward compatible, so I thought the best thing to do was remove it.
-
-Issues needed to be fixed:
-
-- https://github.com/gnolang/gno/issues/3865
-
-### Main concepts
-
-#### gno.land/r/gov/dao
-
-This is the cornerstone of the architecture and cannot be changed. It
-uses the proxy pattern to interact with the actual govDAO
-implementation. GovDAO implementations will be upgraded through
-Proposals.
-
-#### gno.land/r/gov/dao/v3/memberstore
-
-This realm manages member data. Anyone can read from it, but only the
-current govDAO (which the proxy package points to) can write to it.
-Rather than offering generic “GET” and “SET” methods, it provides
-specific methods tailored to the v3 use cases (for example, storing
-members by tier).
-
-#### gno.land/r/gov/dao/v3/impl
-
-This realm contains the actual govDAO v3 implementation and focuses
-solely on business logic. By storing members in separate packages, we
-enable future govDAO implementations to reuse and migrate data as
-needed.
-
-#### Imports for Each Package
-
-
-![mermaid-diagram-2025-03-03-115520](https://github.com/user-attachments/assets/a6636f07-bd42-4a82-9d04-39e2c9bf28c1)
-
-#### Example flow diagram for creating a new Proposal
-
-
-![mermaid-diagram-2025-03-03-121255](https://github.com/user-attachments/assets/509289fa-11d0-43f6-bb49-3d9a22fdbe76)
-
-### Screenshots
-
-
-![page-1](https://github.com/user-attachments/assets/1d41009a-df5c-4490-ae5d-2040dbb818de)
-
-
-![page-2](https://github.com/user-attachments/assets/d5f6a044-38be-4b1d-a6cc-8245b9661713)
-
-
-![votes-list-page](https://github.com/user-attachments/assets/19f7ff2d-6880-48d6-a881-341fb12e0560)
-
-#### Code used to create the screenshots
-
-```go
-
-func CreateTestProposals() {
-	nm1 := std.Address("g1us8428u2a5satrlxzagqqa5m6vmuze025anjlj")
-
-	portfolio := "### This is my portfolio:\n\n- THINGS"
-
-	proxy.MustCreateProposal(NewAddMemberRequest(nm1, memberstore.T2, portfolio))
-
-	proxy.MustCreateProposal(NewChangeLawRequest(law))
-
-	removeAddr := std.Address("g1dfr24yhk5ztwtqn2a36m8f6ud8cx5hww4dkjfl")
-	proxy.MustCreateProposal(NewWithdrawMemberRequest(removeAddr, "This is the removal reason text."))
-
-	proxy.MustCreateProposal(blog.NewPostProposalRequest("slug", "Post Title", "Post Body", "01/03/2025", "AUTHOR ONE", "TAG1, TAG2"))
-
-	proxy.MustCreateProposal(params.NewStringPropRequest("KEY", "VALUE"))
-
-	proxy.MustCreateProposal(NewAddMemberRequest(nm1, memberstore.T2, portfolio))
-
-	proxy.MustVoteOnProposal(proxy.VoteRequest{
-		Option:     proxy.YesVote,
-	ProposalID: proxy.ProposalID(1),
-	})
-
-	proxy.MustVoteOnProposal(proxy.VoteRequest{
-		Option:     proxy.NoVote,
-	ProposalID: proxy.ProposalID(2),
-	})
-
-	ExecuteProposal(proxy.ProposalID(2))
-}
-
-```
-
----------
-
-Signed-off-by: Antonio Navarro Perez &lt;antnavper@gmail.com&gt;
-Co-authored-by: Morgan Bazalgette &lt;morgan@morganbaz.com&gt;
-Co-authored-by: Manfred Touron &lt;94029+moul@users.noreply.github.com&gt;
-Co-authored-by: ltzmaxwell &lt;ltz.maxwell@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#186e52b</div>
-                                        <div class="message">feat: `r/demo` list page (#4057)
-
-## Description
-
-Adds a root package to r/demo to list items manually until #3518 is
-done.
-
----------
-
-Co-authored-by: moul &lt;94029+moul@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02fca69</div>
-                                        <div class="message">feat: add p/snowflake (#2076)
-
-I suggest adding a `UUID` package because I think it could be useful to
-have it available. I think it can further facilitate traceability and
-compatibility between different systems and apps as they would have a
-common standard for identifying entities.
-
-To improve `UUID` generation, I wanted to add a resolver like
-`Snowflake`, but from what I've searched, `sync/atomic` is not supported
-on Gno. Is there another similar package that I might have missed ?
-
----------
-
-Co-authored-by: théo dub &lt;theodub@MacThox.local&gt;
-Co-authored-by: Morgan &lt;morgan@morganbaz.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da4a278</div>
-                                        <div class="message">fix(p/grc20): Unsafe casting during grc20 minting (#4054)
-
-# Description
-
-The `totalSupply` could overflow when casting from `uint64` to `int64`.
-If `totalSupply` exceeded `2^63-1` (max value for int64), the cast would
-produce a negative value, which when cast back to `uint64` would result
-in an invalid `totalSupply`.
-
-To fix this, modified `Mint` function to check for overflow before
-adding to `totalSupply`. Added explicit overflow checks to prevent any
-potential overflow issues.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5d187b</div>
-                                        <div class="message">chore(benchops): require build tags for running command (#4044)
-
-This makes execution of benchops panic if it is compiled incorrectly.
-Additionally, I updated the README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dea12d</div>
-                                        <div class="message">fix(gnodev): bad prefix path check (#4045)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0f7f03</div>
-                                        <div class="message">feat(gnoweb): add whitelist image hosts (#4058)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45ebebf</div>
-                                        <div class="message">chore: make "cannot modify external-realm" error message an exception (#3941)
-
-Co-authored-by: Leon Hudak &lt;33522493+leohhhn@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab14d3b</div>
-                                        <div class="message">fix(pkg/test): include Gno stacktrace for unexpected filetest panics (#4050)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2076 feat: add p/snowflake</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by DIGIX666 in <span class="repo">gnolang/gno</span></div>
-                                    <div class="comment">Yep, I go to move the file 👍🏼</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2025, 16:24:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2025, 17:25:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
