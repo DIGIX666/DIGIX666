@@ -321,11 +321,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.61516123327533" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="178.61516123327533" y="0" width="157.80175549331474" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="336.41691672659005" y="0" width="58.70011911440688" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="395.117035840997" y="0" width="39.847999242998" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.965035083995" y="0" width="25.03496491600503" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.00667494193016" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="180.00667494193016" y="0" width="157.02138897825606" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="337.02806392018624" y="0" width="58.40983332358259" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="395.4378972437688" y="0" width="39.65094158540662" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.0888388291754" y="0" width="24.911161170824595" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2505,7 +2505,7 @@ Signed-off-by: DIGIX666 &lt;digixit66@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2025, 12:26:32 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2025, 13:20:25 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
