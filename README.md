@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
 
 
-## 🏆 Awards / Hackathons
+## 🏆 Hackathons | Awards
 
 soon !
 
