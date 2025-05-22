@@ -2,6 +2,12 @@
 <h3 align="center">Passionate about new Technology, Solutions and blockchain from France 🇫🇷</h3>
 
 
+
+
 <details>
 
 ![Metrics](/github-metrics.svg)
+
+## 🏆 Awards / Hackathons
+
+soon !
