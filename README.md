@@ -4,7 +4,8 @@
 
 ## 🏆 Hackathons | Awards
 
-soon !
+- 🥈 October 2024 - Blokchain Hackathon Vierzon - use cases CACIB ( [so|cash](https://github.com/so-cash/) or [so|bond](https://github.com/so-bond) ) with [Invoice project](https://github.com/DIGIX666/Invoice-CACIB-web3)
+- Soon! [Hackathon Chiliz](https://www.chiliz.com/hacking-paris/) - July 2025
 
 <details>
 
