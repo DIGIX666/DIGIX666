@@ -4,8 +4,11 @@
 
 ## 🏆 Hackathons | Awards
 
-- 🥈 October 2024 - Blokchain Hackathon Vierzon - use cases CACIB ( [so|cash](https://github.com/so-cash/) or [so|bond](https://github.com/so-bond) ) with [Invoice project](https://github.com/DIGIX666/Invoice-CACIB-web3)
-- Soon! [Hackathon Chiliz](https://www.chiliz.com/hacking-paris/) - July 2025
+| Date         | Place   | Prize  | Event / Hackathon                        | Project                    |
+|--------------|----------|-----------|------------------------------------------|----------------------------|
+| October 2024 | 🥈 2nd   | 3000€      | [Blockchain Hackathon Vierzon (CACIB use cases)](https://www.sia-partners.com/fr/publications/publications-de-nos-experts/hackathon-blockchain-vierzon) | [Invoice project](https://github.com/DIGIX666/Invoice-CACIB-web3)
+| July 2025    | –     | –         | [Hackathon Chiliz - Hacking Paris](https://www.chiliz.com/hacking-paris/)      | [Kolise (Fan token project)](https://github.com/DIGIX666/Kolise) 
+
 
 <details>
 
