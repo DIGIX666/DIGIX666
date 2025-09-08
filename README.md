@@ -8,7 +8,7 @@
 |--------------|----------|-----------|------------------------------------------|----------------------------|
 | October 2024 | 🥈 2nd   | 3000€      | [Blockchain Hackathon Vierzon (CACIB use cases)](https://www.sia-partners.com/fr/publications/publications-de-nos-experts/hackathon-blockchain-vierzon) | [Invoice project](https://github.com/DIGIX666/Invoice-CACIB-web3)
 | July 2025    | –     | –         | [Hackathon Chiliz - Hacking Paris](https://www.chiliz.com/hacking-paris/)      | [Kolise (Fan token project)](https://github.com/DIGIX666/Kolise) 
-
+| July - Septembre 2025 | 🥇 1st(July) / 4th place(August) | The hackathon final is in October | [WCHL](https://wchl25.worldcomputer.com/) | [Qubex Protocol](https://github.com/Qubex-Protocol)
 
 <details>
 
