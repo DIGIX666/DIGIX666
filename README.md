@@ -6,7 +6,7 @@
 
 | Date         | Place   | Prize  | Event / Hackathon                        | Project                    |
 |--------------|----------|-----------|------------------------------------------|----------------------------|
-| **September 2026** | `in progress` | `in progress` | [ETHOnline 2026](https://ethglobal.com/events/ethonline2026) | [in progress](https://github.com/DIGIX666/Float402)
+| **September 2026** | `in progress` | `in progress` | [ETHOnline 2026](https://ethglobal.com/events/ethonline2026) | [Koven](https://github.com/DIGIX666/Koven)
 | **August - September 2026** | `in progress` | `in progress` | [Commonsmade](https://commonsmade.com/hackathons) | in progress
 | **February 2026** | - | `no prize but a special jury commendation for the most audacious project` | [FoxyHack - Air and Space Force](https://event.eventozor.com/FOXYHACK/) | [trace-ops](https://github.com/DIGIX666/trace-ops)
 | **January - February 2026** | - | - | **Aptos Hackathon x402** | [x402-inspector](https://github.com/DIGIX666/x402-inspector)
